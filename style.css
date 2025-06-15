@@ -1,0 +1,21 @@
+h1{
+    color:rgb(34, 151, 34);
+    text-align:center;
+}
+p{
+    color: red;
+    text-align:center;
+    font-style:oblique;
+    font-family: arial, tahoma;
+    font-size:23px;
+    font-weight: 900;
+}
+img{
+    display: block;
+    margin-left:25%;
+    width: 55%;
+    height: 55%;
+}
+strong{
+    color:rgb(145, 41, 61);
+}
